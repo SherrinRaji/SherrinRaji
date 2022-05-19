@@ -1,4 +1,4 @@
-# ನಮಸ್ಕಾರ (Namaste), I am Adesh Nalpet Adimurthy
+#  Hello, I am Sherrin Raji
 
 <img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-dark-mode-only" align="left">
 <img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-light-mode-only" align="left">
