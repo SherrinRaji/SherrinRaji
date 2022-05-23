@@ -1,8 +1,5 @@
 #  Hello, I am Sherrin Raji
 
-<img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-dark-mode-only" align="left">
-<img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-light-mode-only" align="left">
-
 | For Hire: | Anywhere in Canada &nbsp;🇨🇦 | [About me]() |
 |-|-|-|
 | Featured: | [0/1 Knapsack Solvers](https://github.com/SherrinRaji/0-1-knapsack-algorithm) | [News Recommender]() |
